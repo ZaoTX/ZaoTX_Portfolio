@@ -6,4 +6,12 @@ The scene is called ["PortfoRIO"](https://github.com/ZaoTX/ZaoTX_Portfolio/tree/
 
 In the game you are acting Mario and you will be greeted by the NPC Toad. 
 
+<img src="https://github.com/ZaoTX/ZaoTX_Portfolio/tree/main/Assets/Scenes/Resources/ReadmeImages/dialog.png">
+
 To watch the demo video you can jumps up and hits the question brick with head.
+
+<img src="https://github.com/ZaoTX/ZaoTX_Portfolio/tree/main/Assets/Scenes/Resources/ReadmeImages/questionbrick1.png">
+
+To pause you can leave the brick and the video is paused.
+
+<img src="https://github.com/ZaoTX/ZaoTX_Portfolio/tree/main/Assets/Scenes/Resources/ReadmeImages/questionbrick.png">
